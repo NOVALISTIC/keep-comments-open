@@ -18,7 +18,7 @@ specific posts that you want to allow comments on indefinitely. This plugin serv
 
 Please note that the plugin currently only works with the [Classic Editor](https://wordpress.org/plugins/classic-editor)
 as I haven't been able to figure out a way to port it to the Block Editor seamlessly (i.e. without creating an entire
-legacy meta box just for one checkbox).
+legacy meta box just for one checkbox) (see [GitHub issue #1](https://github.com/NOVALISTIC/keep-comments-open/issues/1)).
 
 == Installation ==
 
